@@ -40,7 +40,7 @@ Este proyecto automatiza la auditoría de aplicaciones web mediante el uso de he
 
 ## **Cómo ejecutar el proyecto**
 
-### **Instalación de dependencias**
+## **Instalación de dependencias**
 
 Primero, clona el repositorio e instala las dependencias necesarias:
 
@@ -49,7 +49,7 @@ git clone <url_del_repositorio>
 cd <nombre_del_directorio>
 npm install playwright axe-core pdfkit chartjs-node-canvas
 ```
-### **### **Instalación de dependencias**
+## **Ejecución del proyecto**
 ```node
 node audit.js
 ```
